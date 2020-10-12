@@ -3,6 +3,8 @@
 [2] === [2] 
 {} === {} 
 
+// Answer: false, false
+
 //#2 what is the value of property a for each object.
 const object1 = { a: 5 }; 
 const object2 = object1; 
